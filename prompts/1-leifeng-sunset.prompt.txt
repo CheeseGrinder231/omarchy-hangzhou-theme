@@ -1,0 +1,12 @@
+Use case: stylized-concept
+Asset type: 16:9 landscape desktop wallpaper for a 3840x2160 monitor and a dark Linux desktop theme called Hangzhou. Generate at the largest 16:9 size supported, preferably 3840x2160; if unavailable use the largest nearest landscape size.
+Primary request: Leifeng Pagoda at sunset over West Lake, Hangzhou.
+Scene/backdrop: calm lake, layered misty hills fading into haze, low sun glowing just behind distant hills, a narrow warm haze band along the horizon and a restrained sun reflection on the water.
+Subject: recognizable Leifeng Pagoda, octagonal with exactly five storeys and upturned eaves, silhouetted on a wooded hill on the right third, only a few small warmly lit windows. In the mid-distance, the Su Causeway forms a long low line with weeping willows and a small stone arch bridge. One small traditional West Lake rowing boat with a canopy sits on calm water. Lotus leaves and a single pink lotus bud occupy the lower-left foreground.
+Style/medium: Chinese ink-wash landscape painting (shan shui) meeting refined modern digital illustration, soft paper grain, delicate ink edges and atmospheric washes, calm and quiet with lots of breathing room.
+Composition/framing: wide landscape; keep the large central area calm, dark and low-contrast behind terminal windows. Concentrate detail toward the horizon and the edges; small landmark and boat within the spacious landscape.
+Lighting/mood: dark sunset at the edge of night, deep ink-teal shadows dominate the whole image; subdued light restricted to the low horizon, sun reflection and tiny windows. Avoid a bright daylight appearance.
+Color palette: deep ink-teal night tones #141b1d and #1f2b2c dominate; restrained rice-paper ivory highlights #e3dccb, celadon green #8cc0ab, West Lake blue #729cb8. Warm accents only as small lights and the narrow sunset glow: sunset orange #d98a5b and osmanthus gold #dcb25e. Exactly one touch of lotus pink #cf8aa0 in the single bud.
+Constraints: edge-to-edge artwork, opaque background, no text anywhere.
+Avoid: text, calligraphy, seals, signatures, watermarks, borders, people's faces, modern buildings, motorboats, cartoon look, oversaturated color.
+Targeted landmark correction: make Leifeng Pagoda unambiguously FIVE storeys. Show five separate, countable, upturned roof tiers, with the bottom fifth roof tier and its storey fully visible above the wooded hill. Do not hide any of the five storeys in trees. Preserve the dark sunset composition and all other requirements.

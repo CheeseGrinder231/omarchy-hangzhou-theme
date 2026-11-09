@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Hangzhou: West Lake at dusk. Ink-mist water, rice-paper text,
+# Southern Song celadon (粉青) as the signal color.
+accent = "#8cc0ab"
+selection = "#2a3b39"
+muted = "#5a6b66"
+
+background = "#141b1d"
+dark_background = "#101618"
+darker_background = "#0b1012"
+lighter_background = "#1f2b2c"
+
+foreground = "#e3dccb"
+dark_foreground = "#7f8c87"
+light_foreground = "#d2cab5"
+bright_foreground = "#f3eddf"
+
+# Celadon into West Lake blue.
+hyprland_active_border = "rgba(8cc0abee) rgba(729cb8ee) 45deg"
+hyprland_inactive_border = "rgba(3a4a4799)"
+
+red = "#d0654f"      # vermilion seal paste (朱砂)
+yellow = "#dcb25e"   # osmanthus, the city flower (桂花)
+orange = "#d98a5b"   # Leifeng Pagoda at sunset (雷峰夕照)
+green = "#9ab06a"    # Longjing tea (龙井)
+cyan = "#7fb7a6"     # celadon glaze (青瓷)
+blue = "#729cb8"     # West Lake water (西湖)
+magenta = "#cf8aa0"  # lotus at Quyuan (曲院风荷)
+brown = "#8b6b4c"    # tea liquor, old timber
+
+bright_red = "#e7876f"
+bright_yellow = "#efcb82"
+bright_green = "#b6c98b"
+bright_cyan = "#a5d3c3"
+bright_blue = "#98bad0"
+bright_magenta = "#e2aabb"

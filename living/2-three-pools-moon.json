@@ -1,0 +1,10 @@
+{
+  "mask": "2-three-pools-moon.mask.png",
+  "horizon": 0.512,
+  "ripple": 1.0,
+  "shimmer": 1.0,
+  "flicker": 1.0,
+  "flickerSpeed": 3.5,
+  "mist": 0.2,
+  "mistColor": "#9fb3ad"
+}
